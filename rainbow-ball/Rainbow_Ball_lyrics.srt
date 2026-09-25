@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:01,350
+Boing! Boing! Boing!
+
+2
+00:00:01,356 --> 00:00:04,300
+Bounce, bounce, the rainbow ball!
+
+3
+00:00:04,309 --> 00:00:07,250
+Hold on tight, we'll never fall!
+
+4
+00:00:07,261 --> 00:00:10,280
+Red, orange, yellow, green and blue,
+
+5
+00:00:10,293 --> 00:00:14,830
+Bouncing high with me and you!
+
+6
+00:00:14,840 --> 00:00:16,080
+Yaaay!
