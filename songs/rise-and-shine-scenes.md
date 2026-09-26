@@ -1,89 +1,96 @@
-# 🎬 Rise and Shine: تقسيم المشاهد
+# 🎬 Rise and Shine: تقسيم المشاهد بشخصياتك
 
-تقسيم أغنية [Rise and Shine](rise-and-shine.md) لمشاهد، عشان تعمل لكل مشهد صورة وبعدين تحوّلها لفيديو. فيه 24 مشهد، كل مشهد على سطر من الأغنية، ومشاهد الكورس (من 7 لـ 10) بتتعمل مرة واحدة وبتتكرر في الكورسات التلاتة.
+تقسيم أغنية [Rise and Shine](rise-and-shine.md) لـ 24 مشهد بشخصيات الحيوانات بتاعتك (وصفهم في [characters.md](../characters.md)). كل مشهد على سطر من الأغنية، وكل شخصية ليها مشهدين أو تلاتة، ومشاهد الكورس (من 7 لـ 10) بتتعمل مرة واحدة وبتتكرر في الكورسات التلاتة.
 
 ## إزاي تستخدمه
 
-1. **الصور:** اعمل صورة لكل مشهد بالبرومبت بتاعه، بمقاس 16:9 (ولو هتعمل Shorts خليها 9:16). استخدم نفس الموديل لكل الصور عشان الستايل يفضل واحد.
-2. **الفيديو:** حط الصورة في أداة الفيديو كأول فريم (Image to Video)، والصق برومبت الحركة، وخلي المدة 5 ثواني.
-3. **المونتاج:** حط كل كليب على السطر بتاعه في الأغنية. كل سطر حوالي 4 لـ 5 ثواني، فقصّ الكليب على قد السطر.
-
-الحيوانات في المشاهد الجماعية (8 و10 و22 و23 و24) مش لازم تبقى شبه اللي في المشاهد لوحدها بالظبط، لأن كل مشهد قائم بذاته.
+1. **المرجع:** قص كل شخصية لوحدها من الصورة الجماعية. في كل مشهد ارفع صورة الشخصية المكتوبة جنب «المرجع» كـ Reference، ولو المشهد فيه كل الصحاب ارفع الصورة الجماعية كلها.
+2. **الصورة:** الصق برومبت الصورة واعملها بمقاس 16:9، واستخدم نفس الموديل لكل المشاهد عشان الستايل يفضل واحد.
+3. **الفيديو:** حط الصورة في أداة الفيديو كأول فريم (Image to Video)، والصق برومبت الحركة، وخلي المدة 5 ثواني.
+4. **المونتاج:** حط كل كليب على السطر بتاعه في الأغنية، وقصّه على قد السطر (حوالي 4 لـ 5 ثواني).
 
 ## الجزء 1: المقدمة (Spoken Intro)
 
 ### مشهد 1: بيت الصبح والديك
-🎵 الموسيقى الأولانية + Good morning, friends! Wakey, wakey!
+🎵 الموسيقى الأولانية + Good morning, friends! Wakey, wakey!  
+📎 المرجع: من غير مرجع
 
 🖼️ صورة
 ```text
-a cozy little cottage on a green hill at sunrise, a cute rooster standing on a wooden fence, pink and orange morning sky, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+a cozy little house with a red roof on a green hill at sunrise, a cute rooster on a wooden fence, pink and orange morning sky, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the sun slowly rises behind the hill, the rooster flaps its wings and crows, gentle camera push-in toward the cottage
+the sun slowly rises behind the hill, the rooster flaps its wings and crows, gentle camera push-in toward the house
 ```
 
 ### مشهد 2: الستارة بتتفتح
-🎵 The sun is up... let's start our day!
+🎵 The sun is up... let's start our day!  
+📎 المرجع: من غير مرجع، أو ارفع الصورة الجماعية عشان الأوضة تطلع شبه أوضتك
 
 🖼️ صورة
 ```text
-a cozy kids bedroom with a big window, curtains half open, warm sunlight streaming in, toys on the shelves, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+a bright kids bedroom with light blue polka-dot walls, yellow curtains half open and a window to green hills, warm morning sunlight streaming in, toy shelves, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the curtains slide open and warm sunlight fills the room, tiny sparkles float in the light, slow camera pan across the room
+the yellow curtains slide open and warm sunlight fills the room, tiny sparkles float in the light, slow camera pan across the room
 ```
 
 ## الجزء 2: الكوبليه الأول (Verse 1)
 
-### مشهد 3: أرنب بيصحى
-🎵 Open your eyes, it's time to wake,
+في الكوبليه ده الشخصيات لسه لابسة بيجامات بنفس ألوان لبسها، وبتلبس لبسها العادي في الكوبليه التالت.
+
+### مشهد 3: الأرنوبة بتصحى
+🎵 Open your eyes, it's time to wake,  
+📎 المرجع: صورة الأرنوبة
 
 🖼️ صورة
 ```text
-a baby bunny lying in a cozy bed under a soft blanket, sunlight on its face, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+Use the bunny from the reference image: a cream-white bunny with long pink ears and buck teeth, now wearing blue polka-dot pajamas, lying in a cozy bed under a soft blanket with morning sunlight on her face. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the bunny slowly opens its eyes, blinks and smiles, its long ears perk up, gentle camera push-in
+the bunny slowly opens her eyes, blinks and smiles, her long ears perk up, gentle camera push-in
 ```
 
-### مشهد 4: قطة بتتمطّع
-🎵 Stretch up tall and give a great big shake!
+### مشهد 4: الزرافة بتتمطّع
+🎵 Stretch up tall and give a great big shake!  
+📎 المرجع: صورة الزرافة
 
 🖼️ صورة
 ```text
-a fluffy kitten standing on a soft rug in a sunny bedroom, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+Use the giraffe from the reference image: a young giraffe with a small brown hair tuft, now wearing floral pajamas, standing next to her bed in a sunny bedroom. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the kitten stretches its paws high above its head, then gives a big playful shake and its fur fluffs out
+the giraffe stretches her long neck and arms up high, then gives a big happy wiggle
 ```
 
-### مشهد 5: كلب بينفّش المخدة
-🎵 Fluff your pillow, pull the sheet,
+### مشهد 5: الكلب بينفّش المخدة
+🎵 Fluff your pillow, pull the sheet,  
+📎 المرجع: صورة الكلب
 
 🖼️ صورة
 ```text
-a cute puppy sitting on a bed next to a soft white pillow, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+Use the puppy from the reference image: a tan puppy with floppy ears, now wearing green pajamas, sitting on his bed next to a fluffy white pillow. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the puppy pats and fluffs the pillow with its paws, then tugs the sheet straight with its mouth
+the puppy pats and fluffs the pillow with his paws, then pulls the sheet straight
 ```
 
-### مشهد 6: دبدوب بيروّق السرير
-🎵 Make your bed so nice and neat!
+### مشهد 6: الدبدوب بيروّق السرير
+🎵 Make your bed so nice and neat!  
+📎 المرجع: صورة الدبدوب
 
 🖼️ صورة
 ```text
-a bear cub standing proudly next to a neatly made bed with a colorful blanket, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+Use the bear cub from the reference image: a light brown bear cub, now wearing red-and-white striped pajamas, standing proudly next to a neatly made bed with a colorful blanket. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the bear cub smooths the blanket flat with its paws, steps back and claps happily
+the bear cub smooths the blanket flat with his paws, steps back and claps happily
 ```
 
 ## الجزء 3: الكورس (Chorus)
@@ -91,101 +98,109 @@ the bear cub smooths the blanket flat with its paws, steps back and claps happil
 المشاهد من 7 لـ 10 بتتعمل مرة واحدة، وبتحطها في الكورس ده والكورس التاني والكورس الأخير.
 
 ### مشهد 7: الشمس بتطلع
-🎵 Rise and shine, it's a brand new day!
+🎵 Rise and shine, it's a brand new day!  
+📎 المرجع: من غير مرجع
 
 🖼️ صورة
 ```text
-a big smiling sun rising over a small colorful town with round rooftops, pink morning sky, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+a big smiling sun rising over a small colorful town with round rooftops, pink morning sky, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
 the smiling sun rises above the rooftops, the sky turns from pink to bright blue, birds fly across the sky
 ```
 
-### مشهد 8: الحيوانات بتهلّل
-🎵 Rise and shine, hip hip hooray!
+### مشهد 8: الصحاب بيهلّلوا
+🎵 Rise and shine, hip hip hooray!  
+📎 المرجع: الصورة الجماعية
 
 🖼️ صورة
 ```text
-a group of cute baby animals, a bunny, a kitten, a puppy and a bear cub, standing together in a flower meadow, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+Use all seven animal friends from the reference image in their usual outfits: the bear cub, the giraffe, the monkey, the baby elephant, the cat, the puppy and the bunny, standing together in a sunny flower meadow. Keep the exact same character designs, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the baby animals jump up and down and throw their arms in the air, cheering, flowers sway around them
+the friends jump up and down and throw their arms in the air, cheering, the baby elephant claps, flowers sway around them
 ```
 
-### مشهد 9: عصفور في العش
-🎵 The sun is up, and so am I,
+### مشهد 9: الفيل الصغير بيصحى
+🎵 The sun is up, and so am I,  
+📎 المرجع: صورة الفيل الصغير
 
 🖼️ صورة
 ```text
-a baby bird in a nest on a blossoming tree branch, morning sun behind it, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+Use the baby elephant from the reference image: a light blue-gray baby elephant with big pink ears in blue striped pajamas, sitting up in a cozy crib next to a sunny window. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the baby bird stretches its wings wide, chirps happily and hops to the edge of the nest
+the baby elephant yawns, stretches its trunk up high and giggles as sunlight fills the room
 ```
 
 ### مشهد 10: صباح الخير يا سما
-🎵 Good morning, world! Good morning, sky!
+🎵 Good morning, world! Good morning, sky!  
+📎 المرجع: الصورة الجماعية
 
 🖼️ صورة
 ```text
-cute baby animals on a green hilltop looking up at a bright blue sky with fluffy clouds and a rainbow, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+Use all seven animal friends from the reference image in their usual outfits: the bear cub, the giraffe, the monkey, the baby elephant, the cat, the puppy and the bunny, standing on a green hilltop under a bright blue sky with fluffy clouds and a rainbow. Keep the exact same character designs, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the animals wave up at the sky, fluffy clouds drift by, camera slowly tilts up to the rainbow
+the friends wave up at the sky, fluffy clouds drift by, camera slowly tilts up to the rainbow
 ```
 
 ## الجزء 4: الكوبليه التاني (Verse 2)
 
-### مشهد 11: بطة بتغسل وشها
-🎵 Splash, splash, wash your face,
+### مشهد 11: الفيل بيغسل وشه بزلومته
+🎵 Splash, splash, wash your face,  
+📎 المرجع: صورة الفيل الصغير
 
 🖼️ صورة
 ```text
-a yellow duckling standing on a stool at a small bathroom sink, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+Use the baby elephant from the reference image, in blue striped pajamas, standing on a little stool at a small bathroom sink. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the duckling splashes water on its face with its wings, water droplets sparkle, it shakes its head happily
+the baby elephant sprays water on its face with its trunk, water droplets sparkle, it shakes its head happily
 ```
 
-### مشهد 12: فرس نهر بيغسل سنانه
-🎵 Brush your teeth, don't miss a place!
+### مشهد 12: القرد بيغسل سنانه
+🎵 Brush your teeth, don't miss a place!  
+📎 المرجع: صورة القرد
 
 🖼️ صورة
 ```text
-a baby hippo holding a toothbrush in front of a bathroom mirror, big smile showing its teeth, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+Use the monkey from the reference image: a brown monkey with a light tan face, now wearing red pajamas, holding a toothbrush in front of a bathroom mirror with a big smile. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the hippo brushes its big teeth from side to side, white foam bubbles up, it grins at the mirror
+the monkey brushes his teeth from side to side, white foam bubbles up, he grins at the mirror
 ```
 
-### مشهد 13: تمساح بيغسل سنانه
-🎵 Brush, brush, up and down,
+### مشهد 13: الأرنوبة بتغسل سنانها
+🎵 Brush, brush, up and down,  
+📎 المرجع: صورة الأرنوبة
 
 🖼️ صورة
 ```text
-a little green crocodile brushing its teeth with a toothbrush and toothpaste foam in a cute bathroom, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+Use the bunny from the reference image, in blue polka-dot pajamas, brushing her big front teeth at the bathroom sink. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the crocodile brushes its teeth up and down in rhythm, small soap bubbles float up
+the bunny brushes her front teeth up and down in rhythm, small bubbles float up
 ```
 
-### مشهد 14: شبل بيسرّح شعره
-🎵 Comb your hair, the neatest in town!
+### مشهد 14: القطة بتسرّح شعرها
+🎵 Comb your hair, the neatest in town!  
+📎 المرجع: صورة القطة
 
 🖼️ صورة
 ```text
-a lion cub with a fluffy mane holding a comb in front of a mirror, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+Use the cat from the reference image: an orange tabby cat with big blue eyes, now wearing pink pajamas with little hearts, holding a comb in front of a mirror. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the lion cub combs its fluffy mane smooth, looks in the mirror and winks, a little sparkle appears
+the cat combs the fur on her head smooth, looks in the mirror and winks, a little sparkle appears
 ```
 
 ## الجزء 5: الكورس التاني
@@ -194,48 +209,52 @@ the lion cub combs its fluffy mane smooth, looks in the mirror and winks, a litt
 
 ## الجزء 6: الكوبليه التالت (Verse 3)
 
-### مشهد 15: بطريق بيلبس
-🎵 Shirt goes on, and socks, and shoes,
+### مشهد 15: الكلب بيلبس
+🎵 Shirt goes on, and socks, and shoes,  
+📎 المرجع: صورة الكلب
 
 🖼️ صورة
 ```text
-a baby penguin sitting on the floor with a striped sock and little red shoes, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+Use the puppy from the reference image, wearing his khaki cargo shorts and pulling his green hoodie over his head in his bedroom. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the penguin pulls on a striped sock, slips its feet into little red shoes and wiggles its feet
+the puppy pulls the green hoodie down over his head, pops his head out and wiggles happily
 ```
 
-### مشهد 16: قرد بيختار لبسه
-🎵 So many colors, which will you choose?
+### مشهد 16: الزرافة بتختار فستانها
+🎵 So many colors, which will you choose?  
+📎 المرجع: صورة الزرافة
 
 🖼️ صورة
 ```text
-a baby monkey standing in front of an open wardrobe full of colorful kids clothes, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+Use the giraffe from the reference image, in floral pajamas, standing in front of an open wardrobe full of colorful dresses. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the monkey holds up a red shirt, then a yellow one, tilts its head thinking, then hugs the yellow one happily
+the giraffe holds up a yellow dress, then a white floral dress, tilts her head thinking, then happily hugs the floral dress
 ```
 
-### مشهد 17: باندا بتفطر
-🎵 Breakfast time, yum, yum, yum,
+### مشهد 17: الدبدوب بيفطر
+🎵 Breakfast time, yum, yum, yum,  
+📎 المرجع: صورة الدبدوب
 
 🖼️ صورة
 ```text
-a baby panda sitting at a kitchen table with a breakfast plate, holding a piece of toast, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+Use the bear cub from the reference image, in his red-and-white striped t-shirt and denim overalls, sitting at a sunny kitchen table with toast and a jar of honey. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the panda takes a big bite of toast, chews happily and rubs its tummy
+the bear cub takes a big bite of toast with honey, chews happily and rubs his tummy
 ```
 
 ### مشهد 18: طبق الفطار الصحي
-🎵 Healthy food to fill my tum!
+🎵 Healthy food to fill my tum!  
+📎 المرجع: من غير مرجع
 
 🖼️ صورة
 ```text
-a healthy breakfast plate with strawberries, banana slices, a boiled egg and toast, a glass of milk, on a sunny kitchen table, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+a healthy breakfast plate with strawberries, banana slices, a boiled egg and toast, a glass of milk, on a sunny kitchen table, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
@@ -244,80 +263,82 @@ slow camera push-in on the plate, the strawberries glisten and the milk gently r
 
 ## الجزء 7: الـ Bridge
 
-### مشهد 19: صباح الخير يا ماما وبابا
-🎵 Good morning, Mommy! Good morning, Dad!
+### مشهد 19: القطة بتصبّح على ماما وبابا
+🎵 Good morning, Mommy! Good morning, Dad!  
+📎 المرجع: صورة القطة
 
 🖼️ صورة
 ```text
-a bear cub waving to its mom and dad in a cozy sunny kitchen, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+Use the cat from the reference image, in her denim jacket and pink dress, running to her mom and dad, two grown-up orange tabby cats, in a cozy sunny kitchen. Keep the exact same design for the little cat, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the bear cub runs into the kitchen waving, mom and dad bear smile and open their arms
+the little cat runs into the kitchen waving, mom and dad cat smile and open their arms
 ```
 
 ### مشهد 20: حضن الفيل
-🎵 A big warm hug makes everyone glad!
+🎵 A big warm hug makes everyone glad!  
+📎 المرجع: صورة الفيل الصغير
 
 🖼️ صورة
 ```text
-a mother elephant hugging her baby elephant with her trunk in a sunny garden, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+Use the baby elephant from the reference image, in blue striped pajamas, being hugged by its mother elephant with her trunk in a sunny garden. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
 the mother elephant wraps her trunk around her baby in a warm hug, little hearts float up
 ```
 
-### مشهد 21: ثعلب لابس الشنطة
-🎵 Backpack on, I'm ready to go,
+### مشهد 21: القرد لابس الشنطة
+🎵 Backpack on, I'm ready to go,  
+📎 المرجع: صورة القرد
 
 🖼️ صورة
 ```text
-a fox cub wearing a small colorful backpack standing at the front door of a cozy house, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+Use the monkey from the reference image, in his red zip-up tracksuit, wearing a red backpack at the front door of a cozy house. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the fox cub tightens its backpack straps, opens the front door and steps out into the sunshine
+the monkey tightens his backpack straps, opens the front door and steps out into the sunshine
 ```
 
 ### مشهد 22: رايحين المدرسة
-🎵 Learn and play and grow, grow, grow!
+🎵 Learn and play and grow, grow, grow!  
+📎 المرجع: الصورة الجماعية
 
 🖼️ صورة
 ```text
-cute baby animals walking together along a flowery path toward a small colorful school, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+Use all seven animal friends from the reference image in their usual outfits: the bear cub, the giraffe, the monkey, the baby elephant, the cat, the puppy and the bunny, walking together along a flowery path toward a small colorful school, the baby elephant riding in a little red wagon pulled by the bear cub. Keep the exact same character designs, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the baby animals skip along the path toward the school, flowers pop up and grow along the way
+the friends skip along the path toward the school, the wagon rolls along, flowers pop up and grow along the way
 ```
 
 ## الجزء 8: الكورس الأخير (Final Chorus)
 
 حط نفس مشاهد الكورس من 7 لـ 10، وبعدهم المشهد ده على آخر سطر:
 
-### مشهد 23: كل الحيوانات مع بعض
-🎵 Rise and shine! Rise and shine!
+### مشهد 23: كل الصحاب مع بعض
+🎵 Rise and shine! Rise and shine!  
+📎 المرجع: الصورة الجماعية
 
 🖼️ صورة
 ```text
-all the cute baby animals, a bunny, a kitten, a puppy, a bear cub, a duckling, a hippo, a lion cub, a penguin, a panda and a fox, together in a sunny meadow in front of a big smiling sun, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
+Use all seven animal friends from the reference image in their usual outfits: the bear cub, the giraffe, the monkey, the baby elephant, the cat, the puppy and the bunny, together in a sunny meadow in front of a big smiling sun. Keep the exact same character designs, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-all the animals jump together and cheer, sunbeams sparkle, camera slowly pulls back to show the whole sunny meadow
+the friends jump together and cheer, sunbeams sparkle, camera slowly pulls back to show the whole meadow
 ```
 
 ## الجزء 9: الختام (Spoken Outro)
 
 ### مشهد 24: باي باي
-🎵 Have a wonderful day, friends!
+🎵 Have a wonderful day, friends!  
+📎 المرجع: الصورة الجماعية نفسها هي الصورة، فمش محتاج تعمل صورة جديدة. حطها على طول في أداة الفيديو.
 
-🖼️ صورة
-```text
-cute baby animals waving goodbye at the gate of a small colorful school, cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
-```
 🎬 فيديو
 ```text
-the baby animals wave goodbye to the camera and smile, gentle camera pull-back
+the friends wave goodbye to the camera and smile, the baby elephant claps its hands, gentle camera pull-back
 ```
