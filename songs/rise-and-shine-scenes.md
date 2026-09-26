@@ -1,10 +1,10 @@
 # 🎬 Rise and Shine: تقسيم المشاهد بشخصياتك
 
-تقسيم أغنية [Rise and Shine](rise-and-shine.md) لـ 24 مشهد بشخصيات الحيوانات بتاعتك (وصفهم في [characters.md](../characters.md)). كل مشهد على سطر من الأغنية، وكل شخصية ليها مشهدين أو تلاتة، ومشاهد الكورس (من 7 لـ 10) بتتعمل مرة واحدة وبتتكرر في الكورسات التلاتة.
+تقسيم أغنية [Rise and Shine](rise-and-shine.md) لـ 24 مشهد بشخصيات الأطفال بتوعك (وصفهم في [characters.md](../characters.md)). كل مشهد على سطر من الأغنية، وكل طفل ليه مشهدين أو تلاتة، ومشاهد الكورس (من 7 لـ 10) بتتعمل مرة واحدة وبتتكرر في الكورسات التلاتة.
 
 ## إزاي تستخدمه
 
-1. **المرجع:** قص كل شخصية لوحدها من الصورة الجماعية. في كل مشهد ارفع صورة الشخصية المكتوبة جنب «المرجع» كـ Reference، ولو المشهد فيه كل الصحاب ارفع الصورة الجماعية كلها.
+1. **المرجع:** قص كل طفل لوحده من صورة الأطفال الجماعية. في كل مشهد ارفع صورة الطفل المكتوب جنب «المرجع» كـ Reference، ولو المشهد فيه كل الصحاب ارفع الصورة الجماعية كلها.
 2. **الصورة:** الصق برومبت الصورة واعملها بمقاس 16:9، واستخدم نفس الموديل لكل المشاهد عشان الستايل يفضل واحد.
 3. **الفيديو:** حط الصورة في أداة الفيديو كأول فريم (Image to Video)، والصق برومبت الحركة، وخلي المدة 5 ثواني.
 4. **المونتاج:** حط كل كليب على السطر بتاعه في الأغنية، وقصّه على قد السطر (حوالي 4 لـ 5 ثواني).
@@ -39,58 +39,58 @@ the yellow curtains slide open and warm sunlight fills the room, tiny sparkles f
 
 ## الجزء 2: الكوبليه الأول (Verse 1)
 
-في الكوبليه ده الشخصيات لسه لابسة بيجامات بنفس ألوان لبسها، وبتلبس لبسها العادي في الكوبليه التالت.
+في الكوبليه الأول والتاني الأطفال لسه لابسين بيجامات بنفس ألوان لبسهم، وبيلبسوا لبسهم العادي في الكوبليه التالت.
 
-### مشهد 3: الأرنوبة بتصحى
+### مشهد 3: البنت الصغيرة بتصحى
 🎵 Open your eyes, it's time to wake,  
-📎 المرجع: صورة الأرنوبة
+📎 المرجع: صورة البنت الصغيرة
 
 🖼️ صورة
 ```text
-Use the bunny from the reference image: a cream-white bunny with long pink ears and buck teeth, now wearing blue polka-dot pajamas, lying in a cozy bed under a soft blanket with morning sunlight on her face. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
+Use the little girl from the reference image: a little girl with dark skin and two afro puffs with yellow clips, now wearing yellow sunflower pajamas, lying in a cozy bed under a soft blanket with morning sunlight on her face. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the bunny slowly opens her eyes, blinks and smiles, her long ears perk up, gentle camera push-in
+the little girl slowly opens her eyes, blinks and smiles, then sits up and rubs her eyes, gentle camera push-in
 ```
 
-### مشهد 4: الزرافة بتتمطّع
+### مشهد 4: البنت الطويلة بتتمطّع
 🎵 Stretch up tall and give a great big shake!  
-📎 المرجع: صورة الزرافة
+📎 المرجع: صورة البنت الطويلة
 
 🖼️ صورة
 ```text
-Use the giraffe from the reference image: a young giraffe with a small brown hair tuft, now wearing floral pajamas, standing next to her bed in a sunny bedroom. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
+Use the tall girl from the reference image: a tall girl with dark skin and a big afro puff bun, now wearing mint green pajamas, standing next to her bed in a sunny bedroom. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the giraffe stretches her long neck and arms up high, then gives a big happy wiggle
+the girl stretches her arms up high on her tiptoes, then gives a big happy wiggle
 ```
 
-### مشهد 5: الكلب بينفّش المخدة
+### مشهد 5: الولد الرسام بينفّش المخدة
 🎵 Fluff your pillow, pull the sheet,  
-📎 المرجع: صورة الكلب
+📎 المرجع: صورة الولد الرسام
 
 🖼️ صورة
 ```text
-Use the puppy from the reference image: a tan puppy with floppy ears, now wearing green pajamas, sitting on his bed next to a fluffy white pillow. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
+Use the boy with short brown hair from the reference image, now wearing blue pajamas, sitting on his bed next to a fluffy white pillow. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the puppy pats and fluffs the pillow with his paws, then pulls the sheet straight
+the boy pats and fluffs the pillow with his hands, then pulls the sheet straight
 ```
 
-### مشهد 6: الدبدوب بيروّق السرير
+### مشهد 6: الولد الصغير بيروّق السرير
 🎵 Make your bed so nice and neat!  
-📎 المرجع: صورة الدبدوب
+📎 المرجع: صورة الولد الصغير
 
 🖼️ صورة
 ```text
-Use the bear cub from the reference image: a light brown bear cub, now wearing red-and-white striped pajamas, standing proudly next to a neatly made bed with a colorful blanket. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
+Use the toddler boy with curly brown hair from the reference image, now wearing yellow pajamas, standing proudly next to a neatly made bed with a colorful blanket. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the bear cub smooths the blanket flat with his paws, steps back and claps happily
+the toddler smooths the blanket flat with his hands, steps back and claps happily
 ```
 
 ## الجزء 3: الكورس (Chorus)
@@ -116,24 +116,24 @@ the smiling sun rises above the rooftops, the sky turns from pink to bright blue
 
 🖼️ صورة
 ```text
-Use all seven animal friends from the reference image in their usual outfits: the bear cub, the giraffe, the monkey, the baby elephant, the cat, the puppy and the bunny, standing together in a sunny flower meadow. Keep the exact same character designs, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
+Use all seven kids from the reference image in their usual outfits: the toddler boy with curly brown hair, the tall girl with the afro puff bun, the boy with short twists, the baby with ginger curls, the girl with purple glasses, the boy with short brown hair and the little girl with two afro puffs, standing together in a sunny flower meadow. Keep the exact same character designs, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the friends jump up and down and throw their arms in the air, cheering, the baby elephant claps, flowers sway around them
+the kids jump up and down and throw their arms in the air, cheering, the baby claps, flowers sway around them
 ```
 
-### مشهد 9: الفيل الصغير بيصحى
+### مشهد 9: البيبي بيصحى
 🎵 The sun is up, and so am I,  
-📎 المرجع: صورة الفيل الصغير
+📎 المرجع: صورة البيبي
 
 🖼️ صورة
 ```text
-Use the baby elephant from the reference image: a light blue-gray baby elephant with big pink ears in blue striped pajamas, sitting up in a cozy crib next to a sunny window. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
+Use the baby from the reference image: a baby with curly ginger hair and blue eyes in a light blue cloud-print onesie, sitting up in a cozy crib next to a sunny window. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the baby elephant yawns, stretches its trunk up high and giggles as sunlight fills the room
+the baby yawns, stretches both arms up high and giggles as sunlight fills the room
 ```
 
 ### مشهد 10: صباح الخير يا سما
@@ -142,65 +142,65 @@ the baby elephant yawns, stretches its trunk up high and giggles as sunlight fil
 
 🖼️ صورة
 ```text
-Use all seven animal friends from the reference image in their usual outfits: the bear cub, the giraffe, the monkey, the baby elephant, the cat, the puppy and the bunny, standing on a green hilltop under a bright blue sky with fluffy clouds and a rainbow. Keep the exact same character designs, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
+Use all seven kids from the reference image in their usual outfits: the toddler boy with curly brown hair, the tall girl with the afro puff bun, the boy with short twists, the baby with ginger curls, the girl with purple glasses, the boy with short brown hair and the little girl with two afro puffs, standing on a green hilltop under a bright blue sky with fluffy clouds and a rainbow. Keep the exact same character designs, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the friends wave up at the sky, fluffy clouds drift by, camera slowly tilts up to the rainbow
+the kids wave up at the sky, fluffy clouds drift by, camera slowly tilts up to the rainbow
 ```
 
 ## الجزء 4: الكوبليه التاني (Verse 2)
 
-### مشهد 11: الفيل بيغسل وشه بزلومته
+### مشهد 11: ولد الصاروخ بيغسل وشه
 🎵 Splash, splash, wash your face,  
-📎 المرجع: صورة الفيل الصغير
+📎 المرجع: صورة ولد الصاروخ
 
 🖼️ صورة
 ```text
-Use the baby elephant from the reference image, in blue striped pajamas, standing on a little stool at a small bathroom sink. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
+Use the boy with short twists from the reference image: a boy with dark skin and short twists, now wearing orange pajamas with little rockets, standing on a little stool at a bathroom sink. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the baby elephant sprays water on its face with its trunk, water droplets sparkle, it shakes its head happily
+the boy splashes water on his face with both hands, water droplets sparkle, he shakes his head and laughs
 ```
 
-### مشهد 12: القرد بيغسل سنانه
+### مشهد 12: الولد الصغير بيغسل سنانه
 🎵 Brush your teeth, don't miss a place!  
-📎 المرجع: صورة القرد
+📎 المرجع: صورة الولد الصغير
 
 🖼️ صورة
 ```text
-Use the monkey from the reference image: a brown monkey with a light tan face, now wearing red pajamas, holding a toothbrush in front of a bathroom mirror with a big smile. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
+Use the toddler boy with curly brown hair from the reference image, in yellow pajamas, holding a toothbrush in front of a bathroom mirror with a big smile. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the monkey brushes his teeth from side to side, white foam bubbles up, he grins at the mirror
+the toddler brushes his teeth from side to side, white foam bubbles up, he grins at the mirror
 ```
 
-### مشهد 13: الأرنوبة بتغسل سنانها
+### مشهد 13: البنت الصغيرة بتغسل سنانها
 🎵 Brush, brush, up and down,  
-📎 المرجع: صورة الأرنوبة
+📎 المرجع: صورة البنت الصغيرة
 
 🖼️ صورة
 ```text
-Use the bunny from the reference image, in blue polka-dot pajamas, brushing her big front teeth at the bathroom sink. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
+Use the little girl with two afro puffs from the reference image, in yellow sunflower pajamas, brushing her teeth at the bathroom sink. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the bunny brushes her front teeth up and down in rhythm, small bubbles float up
+the little girl brushes her teeth up and down in rhythm, small bubbles float up
 ```
 
-### مشهد 14: القطة بتسرّح شعرها
+### مشهد 14: بنت النضارة بتسرّح شعرها
 🎵 Comb your hair, the neatest in town!  
-📎 المرجع: صورة القطة
+📎 المرجع: صورة بنت النضارة
 
 🖼️ صورة
 ```text
-Use the cat from the reference image: an orange tabby cat with big blue eyes, now wearing pink pajamas with little hearts, holding a comb in front of a mirror. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
+Use the girl with purple glasses from the reference image: a girl with a black bob haircut and bangs, now wearing purple pajamas with little stars, holding a comb in front of a mirror. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the cat combs the fur on her head smooth, looks in the mirror and winks, a little sparkle appears
+the girl combs her black bob smooth, looks in the mirror, pushes up her glasses and winks, a little sparkle appears
 ```
 
 ## الجزء 5: الكورس التاني
@@ -209,43 +209,43 @@ the cat combs the fur on her head smooth, looks in the mirror and winks, a littl
 
 ## الجزء 6: الكوبليه التالت (Verse 3)
 
-### مشهد 15: الكلب بيلبس
+### مشهد 15: الولد الرسام بيلبس
 🎵 Shirt goes on, and socks, and shoes,  
-📎 المرجع: صورة الكلب
+📎 المرجع: صورة الولد الرسام
 
 🖼️ صورة
 ```text
-Use the puppy from the reference image, wearing his khaki cargo shorts and pulling his green hoodie over his head in his bedroom. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
+Use the boy with short brown hair from the reference image, in his khaki cargo shorts, pulling his blue t-shirt over his head in his bedroom, blue sneakers on the floor. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the puppy pulls the green hoodie down over his head, pops his head out and wiggles happily
+the boy pulls the blue t-shirt down over his head, pops his head out, then slips on his blue sneakers and wiggles happily
 ```
 
-### مشهد 16: الزرافة بتختار فستانها
+### مشهد 16: البنت الطويلة بتختار لبسها
 🎵 So many colors, which will you choose?  
-📎 المرجع: صورة الزرافة
+📎 المرجع: صورة البنت الطويلة
 
 🖼️ صورة
 ```text
-Use the giraffe from the reference image, in floral pajamas, standing in front of an open wardrobe full of colorful dresses. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
+Use the tall girl with the afro puff bun from the reference image, in mint green pajamas, standing in front of an open wardrobe full of colorful t-shirts. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the giraffe holds up a yellow dress, then a white floral dress, tilts her head thinking, then happily hugs the floral dress
+the girl holds up a pink t-shirt, then a mint green one, tilts her head thinking, then happily hugs the mint green t-shirt
 ```
 
-### مشهد 17: الدبدوب بيفطر
+### مشهد 17: البيبي بيفطر
 🎵 Breakfast time, yum, yum, yum,  
-📎 المرجع: صورة الدبدوب
+📎 المرجع: صورة البيبي
 
 🖼️ صورة
 ```text
-Use the bear cub from the reference image, in his red-and-white striped t-shirt and denim overalls, sitting at a sunny kitchen table with toast and a jar of honey. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
+Use the baby from the reference image, in the light blue cloud-print onesie and cloud bib, sitting in a high chair at a sunny kitchen table with a bowl of banana and oatmeal. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the bear cub takes a big bite of toast with honey, chews happily and rubs his tummy
+the baby takes a big spoonful, giggles happily and pats their tummy
 ```
 
 ### مشهد 18: طبق الفطار الصحي
@@ -263,43 +263,43 @@ slow camera push-in on the plate, the strawberries glisten and the milk gently r
 
 ## الجزء 7: الـ Bridge
 
-### مشهد 19: القطة بتصبّح على ماما وبابا
+### مشهد 19: بنت النضارة بتصبّح على ماما وبابا
 🎵 Good morning, Mommy! Good morning, Dad!  
-📎 المرجع: صورة القطة
+📎 المرجع: صورة بنت النضارة
 
 🖼️ صورة
 ```text
-Use the cat from the reference image, in her denim jacket and pink dress, running to her mom and dad, two grown-up orange tabby cats, in a cozy sunny kitchen. Keep the exact same design for the little cat, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
+Use the girl with purple glasses from the reference image, in her white lab coat, purple star top and denim skirt, running to her mom and dad in a cozy sunny kitchen. Keep the exact same design for the girl, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the little cat runs into the kitchen waving, mom and dad cat smile and open their arms
+the girl runs into the kitchen waving, her mom and dad smile and open their arms
 ```
 
-### مشهد 20: حضن الفيل
+### مشهد 20: حضن البيبي
 🎵 A big warm hug makes everyone glad!  
-📎 المرجع: صورة الفيل الصغير
+📎 المرجع: صورة البيبي
 
 🖼️ صورة
 ```text
-Use the baby elephant from the reference image, in blue striped pajamas, being hugged by its mother elephant with her trunk in a sunny garden. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
+Use the baby from the reference image, in the light blue cloud-print onesie, being lifted into a warm hug by their mom in a sunny living room. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the mother elephant wraps her trunk around her baby in a warm hug, little hearts float up
+the mom lifts the baby into a warm hug and the baby giggles, little hearts float up
 ```
 
-### مشهد 21: القرد لابس الشنطة
+### مشهد 21: ولد الصاروخ لابس الشنطة
 🎵 Backpack on, I'm ready to go,  
-📎 المرجع: صورة القرد
+📎 المرجع: صورة ولد الصاروخ
 
 🖼️ صورة
 ```text
-Use the monkey from the reference image, in his red zip-up tracksuit, wearing a red backpack at the front door of a cozy house. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
+Use the boy with short twists from the reference image, in his orange rocket t-shirt, denim shorts and orange sneakers, wearing his red backpack at the front door of a cozy house. Keep the exact same character design, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the monkey tightens his backpack straps, opens the front door and steps out into the sunshine
+the boy tightens his backpack straps, opens the front door and steps out into the sunshine
 ```
 
 ### مشهد 22: رايحين المدرسة
@@ -308,11 +308,11 @@ the monkey tightens his backpack straps, opens the front door and steps out into
 
 🖼️ صورة
 ```text
-Use all seven animal friends from the reference image in their usual outfits: the bear cub, the giraffe, the monkey, the baby elephant, the cat, the puppy and the bunny, walking together along a flowery path toward a small colorful school, the baby elephant riding in a little red wagon pulled by the bear cub. Keep the exact same character designs, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
+Use all seven kids from the reference image in their usual outfits: the toddler boy with curly brown hair, the tall girl with the afro puff bun, the boy with short twists, the baby with ginger curls, the girl with purple glasses, the boy with short brown hair and the little girl with two afro puffs, walking together along a flowery path toward a small colorful school, the baby riding in a little red wagon pulled by the tall girl. Keep the exact same character designs, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the friends skip along the path toward the school, the wagon rolls along, flowers pop up and grow along the way
+the kids skip along the path toward the school, the wagon rolls along, flowers pop up and grow along the way
 ```
 
 ## الجزء 8: الكورس الأخير (Final Chorus)
@@ -325,20 +325,20 @@ the friends skip along the path toward the school, the wagon rolls along, flower
 
 🖼️ صورة
 ```text
-Use all seven animal friends from the reference image in their usual outfits: the bear cub, the giraffe, the monkey, the baby elephant, the cat, the puppy and the bunny, together in a sunny meadow in front of a big smiling sun. Keep the exact same character designs, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
+Use all seven kids from the reference image in their usual outfits: the toddler boy with curly brown hair, the tall girl with the afro puff bun, the boy with short twists, the baby with ginger curls, the girl with purple glasses, the boy with short brown hair and the little girl with two afro puffs, together in a sunny meadow in front of a big smiling sun. Keep the exact same character designs, 3D animated kids show style, big expressive eyes, soft pastel colors, bright warm lighting
 ```
 🎬 فيديو
 ```text
-the friends jump together and cheer, sunbeams sparkle, camera slowly pulls back to show the whole meadow
+the kids jump together and cheer, sunbeams sparkle, camera slowly pulls back to show the whole meadow
 ```
 
 ## الجزء 9: الختام (Spoken Outro)
 
 ### مشهد 24: باي باي
 🎵 Have a wonderful day, friends!  
-📎 المرجع: الصورة الجماعية نفسها هي الصورة، فمش محتاج تعمل صورة جديدة. حطها على طول في أداة الفيديو.
+📎 المرجع: مش محتاج تعمل صورة: صورة الأطفال الجماعية بتاعتك نفسها بتنفع هنا، فحطها على طول في أداة الفيديو.
 
 🎬 فيديو
 ```text
-the friends wave goodbye to the camera and smile, the baby elephant claps its hands, gentle camera pull-back
+the kids wave goodbye to the camera and smile, the baby claps their hands, gentle camera pull-back
 ```
