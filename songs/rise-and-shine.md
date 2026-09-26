@@ -11,8 +11,8 @@
 
 - **حيوان لكل سطر:** كل سطر بيعمله حيوان كيوت مختلف، زي أرنب بيصحى وقطة بتتمطّع وفرس نهر بيغسل سنانه، فمفيش شخصية لازم تفضل شبه نفسها طول الفيديو.
 - **كليب 5 ثواني:** كل سطر حوالي 4 لـ 5 ثواني، يعني كل مشهد يكفيه كليب واحد 5 ثواني من أي أداة فيديو بالذكاء الاصطناعي، أو صورة ثابتة عليها زووم بطيء في المونتاج.
-- **كورس واحد:** كليب الكورس (شروق الشمس) واحد وبيتكرر 3 مرات.
-- **الإجمالي:** 18 مشهد بس للفيديو كله.
+- **الكورس:** مشاهد الكورس الأربعة بتتعمل مرة واحدة وبتتكرر في الكورسات التلاتة.
+- **الإجمالي:** 24 مشهد للفيديو كله.
 
 ## على Suno
 
@@ -136,32 +136,4 @@ Have a wonderful day, friends!
 
 ## مشاهد الفيديو
 
-زوّد الستايل ده في آخر كل برومبت عشان كل المشاهد تطلع شبه بعض:
-
-```text
-cute 3D cartoon style, soft pastel colors, bright morning sunlight, kids animation
-```
-
-- **الكورس (كليب واحد يتكرر 3 مرات):**
-  - `sun rising over a small colorful town, birds flying, happy morning sky`
-- **الكوبليه الأول:**
-  - يصحى: `baby bunny waking up in bed and opening its eyes, sunlight through the window`
-  - يتمطّع: `kitten stretching up tall on a fluffy rug`
-  - المخدة: `puppy fluffing a soft pillow on a bed`
-  - السرير: `bear cub making its bed neatly`
-- **الكوبليه التاني:**
-  - يغسل وشه: `duckling splashing water on its face at a small sink`
-  - السنان: `baby hippo brushing its big teeth with a toothbrush`
-  - لفوق ولتحت: `little crocodile brushing its teeth up and down, foamy toothpaste`
-  - الشعر: `lion cub combing its fluffy mane in front of a mirror`
-- **الكوبليه التالت:**
-  - اللبس: `baby penguin putting on colorful socks and shoes`
-  - الألوان: `open wardrobe full of colorful kids clothes`
-  - الفطار: `baby panda eating breakfast at a kitchen table`
-  - الأكل الصحي: `healthy breakfast plate with fruit, eggs and toast`
-- **الـ Bridge:**
-  - صباح الخير: `bear cub hugging its mom and dad in a cozy kitchen`
-  - الحضن: `mother elephant hugging her baby with her trunk`
-  - الشنطة: `fox cub wearing a small backpack at the front door`
-  - يتعلم ويلعب: `happy baby animals walking together to school`
-- **الختام:** `group of cute baby animals waving goodbye`
+التقسيم الكامل للمشاهد، ومعاه برومبت صورة وبرومبت حركة للفيديو لكل سطر، موجود في [rise-and-shine-scenes.md](rise-and-shine-scenes.md).
