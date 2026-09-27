@@ -1,12 +1,12 @@
 # 🎬 Rise and Shine: تقسيم المشاهد بشخصياتك
 
-تقسيم أغنية [Rise and Shine](rise-and-shine.md) لـ 13 مشهد بشخصيات الأطفال بتوعك (وصفهم في [characters.md](../characters.md)). كل مشهد على سطر من الأغنية، وكل طفل ليه مشهد أو اتنين.
+تقسيم أغنية [Rise and Shine](rise-and-shine.md) لـ 15 مشهد بشخصيات الأطفال بتوعك (وصفهم في [characters.md](../characters.md)). كل مشهد على سطر من الأغنية، ما عدا آخر مشهدين فكل واحد فيهم على سطرين.
 
 ## إزاي تستخدمه
 
 1. **المرجع:** قص كل طفل لوحده من صورة الأطفال الجماعية، وفي كل مشهد ارفع صورة الطفل المكتوب جنب «المرجع» كـ Reference.
 2. **الصورة:** الصق برومبت الصورة واعملها بمقاس 16:9، واستخدم نفس الموديل لكل المشاهد عشان الستايل يفضل واحد.
-3. **الفيديو:** حط الصورة في أداة الفيديو كأول فريم (Image to Video)، والصق برومبت الحركة، وخلي المدة 5 ثواني.
+3. **الفيديو:** حط الصورة في أداة الفيديو كأول فريم (Image to Video)، والصق برومبت الحركة، وخلي المدة 5 ثواني (وآخر مشهدين 10 ثواني).
 4. **المونتاج:** حط كل كليب على السطر بتاعه في الأغنية، وقصّه على قد السطر (حوالي 4 لـ 5 ثواني).
 
 ## الجزء 1: المقدمة (Spoken Intro)
@@ -186,4 +186,37 @@ Use the baby from the reference image, in the light blue cloud-print onesie and 
 🎬 فيديو
 ```text
 the baby takes a big spoonful, giggles happily and pats their tummy
+```
+
+## الجزء 5: الكوبليه الرابع (Verse 4)
+
+المشهدين دول كل واحد فيهم على سطرين، فخلي فيديو كل واحد 10 ثواني.
+
+### مشهد 14: الأطفال بيلبسوا الشنط
+🎵 Backpacks on, we pull them tight, / One strap, two straps, left and right!  
+📎 المرجع: صورة الأطفال الجماعية
+
+🖼️ صورة
+```text
+Edit this image. Keep the same room, the same camera angle, the same lighting and all seven kids exactly as they are. Change only this: six of the kids are putting on their school backpacks, slipping their arms through the straps and smiling:
+- the toddler boy with curly brown hair puts on a small green backpack
+- the tall girl with the afro puff bun puts on a pink backpack
+- the boy with short twists adjusts the straps of his red backpack
+- the girl with purple glasses puts on a purple backpack
+- the boy with short brown hair puts on a blue backpack
+- the little girl with two afro puffs puts on a light pink backpack
+The baby with curly ginger hair has no backpack: the baby stays sitting on the rug in the middle, clapping happily. Same 3D animated kids show style.
+```
+🎬 فيديو
+```text
+The six kids finish putting on their backpacks: they slip their arms through the straps, pull the straps tight, hop with excitement and smile at each other. The baby sitting on the rug in the middle has no backpack, claps happily and waves. Keep all seven kids exactly as they are, no new characters. Warm morning light, gentle slow camera push-in, smooth natural animation, same 3D cartoon style.
+```
+
+### مشهد 15: باي باي عند الأتوبيس
+🎵 Beep, beep! The school bus is here, / Bye-bye, Mommy, Daddy, baby dear!  
+📎 المرجع: صورة الأتوبيس اللي عملتها (بعد ما غيّرنا ماما وبابا وضفنا بنت النضارة)، فمش محتاج تعمل صورة جديدة.
+
+🎬 فيديو
+```text
+The five kids at the school bus door smile and wave goodbye to their family, then climb the bus steps one by one and wave again from the bus windows. The bus door closes and the yellow school bus slowly drives away down the street. At the house door, the mom, and the dad holding the baby, keep waving goodbye, and the baby waves its little hand. Keep all characters exactly as they are, no new characters. Warm morning sunlight, steady camera, smooth natural animation, same 3D cartoon style.
 ```
