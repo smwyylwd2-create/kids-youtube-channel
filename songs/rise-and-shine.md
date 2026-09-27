@@ -4,14 +4,14 @@
 
 - **السن:** من 2 لـ 6 سنين
 - **المدة:** حوالي دقيقة ونص، على قد الفيديو (1:29)
-- **السرعة:** 85 BPM. على السرعة دي السطر العادي بياخد حوالي 6 ثواني، والسطر اللي بعده صدى بين قوسين بياخد حوالي 7 ثواني، فالأغنية كلها بتطلع حوالي 1:29 زي الفيديو
+- **التكرار:** Suno بيغني السطر في حوالي 3 ثواني (أول نسخة طلعت 50 ثانية)، فكل سطر بيتقال مرتين عشان ياخد حوالي 6 ثواني زي المشهد، وسطرين الأتوبيس بيتقالوا مرة واحدة والموسيقى بتخلص على الأتوبيس وهو ماشي
 - **الرسالة:** نبدأ يومنا بنشاط ونضافة ونظام، ونخلّص أكلنا كله
 - **عنوان مقترح للفيديو:** Rise and Shine 🌞 Good Morning Song for Kids | Morning Routine
 
 ## ليه سهلة في الإنتاج؟
 
 - **شخصياتك:** المشاهد معمولة بشخصيات الأطفال بتوعك (الولد الصغير، والبنت الطويلة، وولد الصاروخ، والبيبي، وبنت النضارة، والولد الرسام، والبنت الصغيرة)، وكل طفل ليه مشهد أو اتنين. بترفع صورة الطفل كمرجع مع كل مشهد عشان شكله يفضل ثابت.
-- **مشهد لكل سطر:** كل سطر حوالي 6 ثواني، يعني كل مشهد يكفيه كليب واحد، ولو الكليب أقصر من السطر مدّه بالـ Speed في المونتاج.
+- **مشهد لكل سطر:** كل سطر بتكراره حوالي 6 ثواني، يعني كل مشهد يكفيه كليب واحد، ولو الكليب أقصر من السطر مدّه بالـ Speed في المونتاج.
 - **الإجمالي:** 14 مشهد للفيديو كله.
 
 ## على Suno
@@ -37,21 +37,33 @@ bright morning kids song, sing-along, 85 BPM, bouncy, major key, ukulele, acoust
 Good morning, friends! Wakey, wakey!
 
 [Verse 1]
+Open your eyes, it's time to wake,
 Open your eyes, it's time to wake! (Wake up!)
+Stretch up tall and give a great big shake,
 Stretch up tall and give a great big shake!
 Fluff your pillow, pull the sheet,
+Fluff your pillow, pull the sheet,
+Make your bed so nice and neat,
 Make your bed so nice and neat! (So neat!)
 
 [Verse 2]
+Splash, splash, wash your face,
 Splash, splash, wash your face! (Splash, splash!)
+Brush your teeth, don't miss a place,
 Brush your teeth, don't miss a place!
 Brush, brush, up and down,
+Brush, brush, up and down,
+Comb your hair, the neatest in town,
 Comb your hair, the neatest in town!
 
 [Verse 3]
 Shirt goes on, and socks, and shoes,
+Shirt goes on, and socks, and shoes,
 So many colors, which will you choose?
+So many colors, which will you choose?
+Breakfast time, yum, yum, yum,
 Breakfast time, yum, yum, yum! (Yum, yum!)
+Eat it all up, every crumb,
 Eat it all up, every crumb!
 
 [Verse 4]
@@ -68,7 +80,7 @@ Bye-bye, Mommy, Daddy, baby dear!
 
 ## التوقيت على المونتاج
 
-المدد دي من المونتاج بتاعك (ثواني:فريمات). مجموعها 1:31، والفيديو 1:29 عشان الانتقالات بتاكل حوالي ثانيتين. كل سطر مكتوب قصاد المشهد اللي بيتغنّى عليه:
+المدد دي من المونتاج بتاعك (ثواني:فريمات). مجموعها 1:31، والفيديو 1:29 عشان الانتقالات بتاكل حوالي ثانيتين. كل سطر مكتوب قصاد المشهد اللي بيتغنّى عليه، وبيتقال مرتين ما عدا سطر المقدمة وسطرين الأتوبيس:
 
 | # | المشهد | المدة | السطر |
 |---|---|---|---|
@@ -89,7 +101,7 @@ Bye-bye, Mommy, Daddy, baby dear!
 
 ## الترجمة بالعربي
 
-الترجمة دي عشان تفهم المعنى بس، سطر قصاد سطر وبنفس ترتيب الكلمات الإنجليزي. اسم الأغنية Rise and shine معناه «اصحى وابدأ يومك بنشاط».
+الترجمة دي عشان تفهم المعنى بس، سطر قصاد سطر وبنفس ترتيب الكلمات الإنجليزي، ومن غير التكرار. اسم الأغنية Rise and shine معناه «اصحى وابدأ يومك بنشاط».
 
 **المقدمة (كلام)**  
 صباح الخير يا أصحاب! اصحوا اصحوا!

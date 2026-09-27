@@ -1,6 +1,6 @@
 # 🎬 Rise and Shine: تقسيم المشاهد بشخصياتك
 
-تقسيم أغنية [Rise and Shine](rise-and-shine.md) لـ 14 مشهد بنفس ترتيب المونتاج بتاعك (1:29)، بشخصيات الأطفال بتوعك (وصفهم في [characters.md](../characters.md)). جنب كل مشهد مدته في المونتاج (ثواني:فريمات) والسطر اللي بيتغنّى عليه.
+تقسيم أغنية [Rise and Shine](rise-and-shine.md) لـ 14 مشهد بنفس ترتيب المونتاج بتاعك (1:29)، بشخصيات الأطفال بتوعك (وصفهم في [characters.md](../characters.md)). جنب كل مشهد مدته في المونتاج (ثواني:فريمات) والسطر اللي بيتغنّى عليه، و«×2» معناها إن السطر بيتقال مرتين.
 
 ## إزاي تستخدمه
 
@@ -29,7 +29,7 @@ the yellow curtains slide open and warm sunlight fills the room, tiny sparkles f
 في الكوبليه الأول والتاني الأطفال لسه لابسين بيجامات بنفس ألوان لبسهم، وبيلبسوا لبسهم العادي في الكوبليه التالت.
 
 ### مشهد 2: البنت الصغيرة بتصحى (7:02)
-🎵 Open your eyes, it's time to wake! (Wake up!)  
+🎵 ×2: Open your eyes, it's time to wake! (Wake up!)  
 📎 المرجع: صورة البنت الصغيرة
 
 🖼️ صورة
@@ -42,7 +42,7 @@ the little girl slowly opens her eyes, blinks and smiles, then sits up and rubs 
 ```
 
 ### مشهد 3: البنت الطويلة بتتمطّع (6:02)
-🎵 Stretch up tall and give a great big shake!  
+🎵 ×2: Stretch up tall and give a great big shake!  
 📎 المرجع: صورة البنت الطويلة
 
 🖼️ صورة
@@ -55,7 +55,7 @@ the girl stretches her arms up high on her tiptoes, then gives a big happy wiggl
 ```
 
 ### مشهد 4: الولد الرسام بينفّش المخدة (6:02)
-🎵 Fluff your pillow, pull the sheet,  
+🎵 ×2: Fluff your pillow, pull the sheet,  
 📎 المرجع: صورة الولد الرسام
 
 🖼️ صورة
@@ -68,7 +68,7 @@ the boy pats and fluffs the pillow with his hands, then pulls the sheet straight
 ```
 
 ### مشهد 5: الولد الصغير بيروّق السرير (7:13)
-🎵 Make your bed so nice and neat! (So neat!)  
+🎵 ×2: Make your bed so nice and neat! (So neat!)  
 📎 المرجع: صورة الولد الصغير
 
 🖼️ صورة
@@ -83,7 +83,7 @@ the toddler smooths the blanket flat with his hands, steps back and claps happil
 ## الجزء 3: الكوبليه التاني (Verse 2)
 
 ### مشهد 6: ولد الصاروخ بيغسل وشه (7:02)
-🎵 Splash, splash, wash your face! (Splash, splash!)  
+🎵 ×2: Splash, splash, wash your face! (Splash, splash!)  
 📎 المرجع: صورة ولد الصاروخ
 
 🖼️ صورة
@@ -96,7 +96,7 @@ the boy splashes water on his face with both hands, water droplets sparkle, he s
 ```
 
 ### مشهد 7: البنت الصغيرة بتغسل سنانها (6:02)
-🎵 Brush your teeth, don't miss a place!  
+🎵 ×2: Brush your teeth, don't miss a place!  
 📎 المرجع: صورة البنت الصغيرة
 
 🖼️ صورة
@@ -109,7 +109,7 @@ the little girl brushes her teeth from side to side, white foam bubbles up, she 
 ```
 
 ### مشهد 8: الولد الصغير بيغسل سنانه (6:02)
-🎵 Brush, brush, up and down,  
+🎵 ×2: Brush, brush, up and down,  
 📎 المرجع: صورة الولد الصغير
 
 🖼️ صورة
@@ -122,7 +122,7 @@ the toddler brushes his teeth up and down in rhythm, small bubbles float up, he 
 ```
 
 ### مشهد 9: بنت النضارة بتسرّح شعرها (5:21)
-🎵 Comb your hair, the neatest in town!  
+🎵 ×2: Comb your hair, the neatest in town!  
 📎 المرجع: صورة بنت النضارة
 
 🖼️ صورة
@@ -137,7 +137,7 @@ the girl combs her black bob smooth, looks in the mirror, pushes up her glasses 
 ## الجزء 4: الكوبليه التالت (Verse 3)
 
 ### مشهد 10: الولد الرسام بيلبس (6:02)
-🎵 Shirt goes on, and socks, and shoes,  
+🎵 ×2: Shirt goes on, and socks, and shoes,  
 📎 المرجع: صورة الولد الرسام
 
 🖼️ صورة
@@ -150,7 +150,7 @@ the boy pulls the blue t-shirt down over his head, pops his head out, then slips
 ```
 
 ### مشهد 11: البنت الطويلة بتختار لبسها (6:02)
-🎵 So many colors, which will you choose?  
+🎵 ×2: So many colors, which will you choose?  
 📎 المرجع: صورة البنت الطويلة
 
 🖼️ صورة
@@ -163,7 +163,7 @@ the girl holds up a pink t-shirt, then a mint green one, tilts her head thinking
 ```
 
 ### مشهد 12: ترابيزة الفطار (7:25)
-🎵 Breakfast time, yum, yum, yum! (Yum, yum!)  
+🎵 ×2: Breakfast time, yum, yum, yum! (Yum, yum!)  
 📎 المرجع: الصورة الجماعية، أو استخدم صورة الفطار اللي عملتها على طول
 
 🖼️ صورة
@@ -176,7 +176,7 @@ the kids smile at each other around the breakfast table and pick up their spoons
 ```
 
 ### مشهد 13: الأطفال بياكلوا (5:02)
-🎵 Eat it all up, every crumb!  
+🎵 ×2: Eat it all up, every crumb!  
 📎 المرجع: صورة الفطار نفسها، فمش محتاج تعمل صورة جديدة
 
 🎬 فيديو
