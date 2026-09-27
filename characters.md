@@ -32,6 +32,11 @@
 - **الولد الرسام (قصاد الكلب):** `a boy with brown hair, in a blue t-shirt, khaki cargo shorts and blue sneakers, holding a paintbrush`
 - **البنت الصغيرة (قصاد الأرنوبة):** `a little girl with dark skin and two afro puffs with yellow clips, in a yellow sunflower dress and yellow shoes`
 
+## ماما وبابا
+
+- **ماما:** `a mom with curly blonde shoulder-length hair, in a blue patterned blouse and khaki pants`
+- **بابا:** `a dad with short brown hair, in a light blue button-up shirt with rolled-up sleeves and khaki pants`
+
 ## الأوضة
 
 الأوضة اللي في الصورة الجماعية ينفع تبقى المكان الثابت للقناة:
