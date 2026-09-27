@@ -4,7 +4,7 @@
 
 - **السن:** من 2 لـ 6 سنين
 - **المدة:** حوالي دقيقة ونص، على قد الفيديو (1:29)
-- **السرعة:** 80 BPM، عشان كل سطر ياخد حوالي 6 ثواني زي كل مشهد في المونتاج
+- **السرعة:** 85 BPM. على السرعة دي السطر العادي بياخد حوالي 6 ثواني، والسطر اللي بعده صدى بين قوسين بياخد حوالي 7 ثواني، فالأغنية كلها بتطلع حوالي 1:29 زي الفيديو
 - **الرسالة:** نبدأ يومنا بنشاط ونضافة ونظام، ونخلّص أكلنا كله
 - **عنوان مقترح للفيديو:** Rise and Shine 🌞 Good Morning Song for Kids | Morning Routine
 
@@ -27,7 +27,7 @@ Rise and Shine (The Good Morning Song)
 ### Style
 
 ```text
-bright morning kids song, sing-along, 80 BPM, bouncy, major key, ukulele, acoustic guitar, whistling, glockenspiel, handclaps, cheerful female vocal, kids choir, sunny, happy, clear English
+bright morning kids song, sing-along, 85 BPM, bouncy, major key, ukulele, acoustic guitar, whistling, glockenspiel, handclaps, cheerful female vocal, kids choir, sunny, happy, clear English
 ```
 
 ### Lyrics
@@ -37,13 +37,13 @@ bright morning kids song, sing-along, 80 BPM, bouncy, major key, ukulele, acoust
 Good morning, friends! Wakey, wakey!
 
 [Verse 1]
-Open your eyes, it's time to wake,
+Open your eyes, it's time to wake! (Wake up!)
 Stretch up tall and give a great big shake!
 Fluff your pillow, pull the sheet,
-Make your bed so nice and neat!
+Make your bed so nice and neat! (So neat!)
 
 [Verse 2]
-Splash, splash, wash your face,
+Splash, splash, wash your face! (Splash, splash!)
 Brush your teeth, don't miss a place!
 Brush, brush, up and down,
 Comb your hair, the neatest in town!
@@ -51,7 +51,7 @@ Comb your hair, the neatest in town!
 [Verse 3]
 Shirt goes on, and socks, and shoes,
 So many colors, which will you choose?
-Breakfast time, yum, yum, yum!
+Breakfast time, yum, yum, yum! (Yum, yum!)
 Eat it all up, every crumb!
 
 [Verse 4]
@@ -62,30 +62,30 @@ Bye-bye, Mommy, Daddy, baby dear!
 ```
 
 - Suno بيطلّع نسختين كل مرة: اختار الأحلى، أو اعمل Create تاني لحد ما تعجبك.
-- **المزامنة:** Suno مش بيمشي على الثانية بالظبط، وغالبًا هيزوّد موسيقى في الأول. بعد ما تطلع الأغنية، حطها في المونتاج وحرّك بداية كل مشهد لحد ما تيجي مع السطر بتاعه، ولو مشهد طلع أقصر من السطر مدّه بالـ Speed.
+- **الصدى:** الكلام اللي بين قوسين زي (Wake up!) بيتغنّى صدى بعد السطر، وحطيته في المشاهد الطويلة (7 ثواني وأكتر) عشان يملا الوقت الزيادة.
+- **المزامنة:** Suno مش بيمشي على الثانية بالظبط، وغالبًا هيزوّد موسيقى في الأول. بعد ما تطلع الأغنية، حطها تحت الفيديو، وشغّلها، وعند بداية كل سطر حط Marker. بعدين شد طرف كل مشهد لحد الماركر بتاعه، ولو مشهد طلع أقصر من السطر مدّه بالـ Speed.
 - اللي بين أقواس مربعة زي `[Verse 1]` بيقسّم الأغنية ومش بيتغنّى.
 
 ## التوقيت على المونتاج
 
-الأوقات دي من المونتاج بتاعك (1:29). كل سطر مكتوب قصاد المشهد اللي بيتغنّى عليه:
+المدد دي من المونتاج بتاعك (ثواني:فريمات). مجموعها 1:31، والفيديو 1:29 عشان الانتقالات بتاكل حوالي ثانيتين. كل سطر مكتوب قصاد المشهد اللي بيتغنّى عليه:
 
-| الوقت | المشهد | السطر |
-|---|---|---|
-| 0:00–0:04 | الشباك والشمس | Good morning, friends! Wakey, wakey! |
-| 0:04–0:11 | البنت الصغيرة بتصحى | Open your eyes, it's time to wake, |
-| 0:11–0:17 | البنت الطويلة بتتمطّع | Stretch up tall and give a great big shake! |
-| 0:17–0:24 | الولد الرسام بينفّش المخدة | Fluff your pillow, pull the sheet, |
-| 0:24–0:30 | الولد الصغير بيروّق السرير | Make your bed so nice and neat! |
-| 0:30–0:37 | ولد الصاروخ بيغسل وشه | Splash, splash, wash your face, |
-| 0:37–0:43 | البنت الصغيرة بتغسل سنانها | Brush your teeth, don't miss a place! |
-| 0:43–0:49 | الولد الصغير بيغسل سنانه | Brush, brush, up and down, |
-| 0:49–0:55 | بنت النضارة بتسرّح شعرها | Comb your hair, the neatest in town! |
-| 0:55–1:01 | الولد الرسام بيلبس | Shirt goes on, and socks, and shoes, |
-| 1:01–1:07 | البنت الطويلة بتختار لبسها | So many colors, which will you choose? |
-| 1:07–1:14 | ترابيزة الفطار | Breakfast time, yum, yum, yum! |
-| 1:14–1:19 | الأطفال بياكلوا | Eat it all up, every crumb! |
-| 1:19–1:24 | الأتوبيس (أول نص الكليب) | Beep, beep! The school bus is here, |
-| 1:24–1:29 | الأتوبيس (تاني نص الكليب) | Bye-bye, Mommy, Daddy, baby dear! |
+| # | المشهد | المدة | السطر |
+|---|---|---|---|
+| 1 | الشباك والشمس | 4:11 | Good morning, friends! Wakey, wakey! |
+| 2 | البنت الصغيرة بتصحى | 7:02 | Open your eyes, it's time to wake! (Wake up!) |
+| 3 | البنت الطويلة بتتمطّع | 6:02 | Stretch up tall and give a great big shake! |
+| 4 | الولد الرسام والمخدة | 6:02 | Fluff your pillow, pull the sheet, |
+| 5 | الولد الصغير بيروّق السرير | 7:13 | Make your bed so nice and neat! (So neat!) |
+| 6 | ولد الصاروخ بيغسل وشه | 7:02 | Splash, splash, wash your face! (Splash, splash!) |
+| 7 | البنت الصغيرة بتغسل سنانها | 6:02 | Brush your teeth, don't miss a place! |
+| 8 | الولد الصغير بيغسل سنانه | 6:02 | Brush, brush, up and down, |
+| 9 | بنت النضارة بتسرّح شعرها | 5:21 | Comb your hair, the neatest in town! |
+| 10 | الولد الرسام بيلبس | 6:02 | Shirt goes on, and socks, and shoes, |
+| 11 | البنت الطويلة بتختار لبسها | 6:02 | So many colors, which will you choose? |
+| 12 | ترابيزة الفطار | 7:25 | Breakfast time, yum, yum, yum! (Yum, yum!) |
+| 13 | الأطفال بياكلوا | 5:02 | Eat it all up, every crumb! |
+| 14 | الأتوبيس | 10:02 | Beep, beep! The school bus is here, / Bye-bye, Mommy, Daddy, baby dear! |
 
 ## الترجمة بالعربي
 
@@ -95,13 +95,13 @@ Bye-bye, Mommy, Daddy, baby dear!
 صباح الخير يا أصحاب! اصحوا اصحوا!
 
 **الكوبليه الأول**  
-افتح عينيك، جه وقت الصحيان  
+افتح عينيك، جه وقت الصحيان! (اصحى!)  
 اتمطّع لفوق وهز جسمك هزّة كبيرة!  
 نفّش مخدتك واشدّ الملاية  
-وروّق سريرك يبقى حلو ومترتب!
+وروّق سريرك يبقى حلو ومترتب! (مترتب!)
 
 **الكوبليه التاني**  
-طش طش، اغسل وشك  
+طش طش، اغسل وشك! (طش طش!)  
 اغسل سنانك، وماتنساش ولا حتة!  
 بالفرشة، لفوق ولتحت  
 سرّح شعرك، تبقى أشيك واحد في البلد!
@@ -109,7 +109,7 @@ Bye-bye, Mommy, Daddy, baby dear!
 **الكوبليه التالت**  
 البس القميص، والشراب، والجزمة  
 ألوان كتير، هتختار أنهي؟  
-وقت الفطار، يم يم يم!  
+وقت الفطار، يم يم يم! (يم يم!)  
 كُلها كلها، لآخر فتفوتة!
 
 **الكوبليه الرابع**  

@@ -1,6 +1,6 @@
 # 🎬 Rise and Shine: تقسيم المشاهد بشخصياتك
 
-تقسيم أغنية [Rise and Shine](rise-and-shine.md) لـ 14 مشهد بنفس ترتيب المونتاج بتاعك (1:29)، بشخصيات الأطفال بتوعك (وصفهم في [characters.md](../characters.md)). جنب كل مشهد وقته في المونتاج والسطر اللي بيتغنّى عليه.
+تقسيم أغنية [Rise and Shine](rise-and-shine.md) لـ 14 مشهد بنفس ترتيب المونتاج بتاعك (1:29)، بشخصيات الأطفال بتوعك (وصفهم في [characters.md](../characters.md)). جنب كل مشهد مدته في المونتاج (ثواني:فريمات) والسطر اللي بيتغنّى عليه.
 
 ## إزاي تستخدمه
 
@@ -11,7 +11,7 @@
 
 ## الجزء 1: المقدمة (Spoken Intro)
 
-### مشهد 1: الشباك والشمس (0:00–0:04)
+### مشهد 1: الشباك والشمس (4:11)
 🎵 Good morning, friends! Wakey, wakey!  
 📎 المرجع: من غير مرجع، أو ارفع الصورة الجماعية عشان الأوضة تطلع شبه أوضتك
 
@@ -28,8 +28,8 @@ the yellow curtains slide open and warm sunlight fills the room, tiny sparkles f
 
 في الكوبليه الأول والتاني الأطفال لسه لابسين بيجامات بنفس ألوان لبسهم، وبيلبسوا لبسهم العادي في الكوبليه التالت.
 
-### مشهد 2: البنت الصغيرة بتصحى (0:04–0:11)
-🎵 Open your eyes, it's time to wake,  
+### مشهد 2: البنت الصغيرة بتصحى (7:02)
+🎵 Open your eyes, it's time to wake! (Wake up!)  
 📎 المرجع: صورة البنت الصغيرة
 
 🖼️ صورة
@@ -41,7 +41,7 @@ Use the little girl from the reference image: a little girl with dark skin and t
 the little girl slowly opens her eyes, blinks and smiles, then sits up and rubs her eyes, gentle camera push-in
 ```
 
-### مشهد 3: البنت الطويلة بتتمطّع (0:11–0:17)
+### مشهد 3: البنت الطويلة بتتمطّع (6:02)
 🎵 Stretch up tall and give a great big shake!  
 📎 المرجع: صورة البنت الطويلة
 
@@ -54,7 +54,7 @@ Use the tall girl from the reference image: a tall girl with dark skin and a big
 the girl stretches her arms up high on her tiptoes, then gives a big happy wiggle
 ```
 
-### مشهد 4: الولد الرسام بينفّش المخدة (0:17–0:24)
+### مشهد 4: الولد الرسام بينفّش المخدة (6:02)
 🎵 Fluff your pillow, pull the sheet,  
 📎 المرجع: صورة الولد الرسام
 
@@ -67,8 +67,8 @@ Use the boy with short brown hair from the reference image, now wearing blue paj
 the boy pats and fluffs the pillow with his hands, then pulls the sheet straight
 ```
 
-### مشهد 5: الولد الصغير بيروّق السرير (0:24–0:30)
-🎵 Make your bed so nice and neat!  
+### مشهد 5: الولد الصغير بيروّق السرير (7:13)
+🎵 Make your bed so nice and neat! (So neat!)  
 📎 المرجع: صورة الولد الصغير
 
 🖼️ صورة
@@ -82,8 +82,8 @@ the toddler smooths the blanket flat with his hands, steps back and claps happil
 
 ## الجزء 3: الكوبليه التاني (Verse 2)
 
-### مشهد 6: ولد الصاروخ بيغسل وشه (0:30–0:37)
-🎵 Splash, splash, wash your face,  
+### مشهد 6: ولد الصاروخ بيغسل وشه (7:02)
+🎵 Splash, splash, wash your face! (Splash, splash!)  
 📎 المرجع: صورة ولد الصاروخ
 
 🖼️ صورة
@@ -95,7 +95,7 @@ Use the boy with short twists from the reference image: a boy with dark skin and
 the boy splashes water on his face with both hands, water droplets sparkle, he shakes his head and laughs
 ```
 
-### مشهد 7: البنت الصغيرة بتغسل سنانها (0:37–0:43)
+### مشهد 7: البنت الصغيرة بتغسل سنانها (6:02)
 🎵 Brush your teeth, don't miss a place!  
 📎 المرجع: صورة البنت الصغيرة
 
@@ -108,7 +108,7 @@ Use the little girl with two afro puffs from the reference image, in yellow sunf
 the little girl brushes her teeth from side to side, white foam bubbles up, she grins at the mirror
 ```
 
-### مشهد 8: الولد الصغير بيغسل سنانه (0:43–0:49)
+### مشهد 8: الولد الصغير بيغسل سنانه (6:02)
 🎵 Brush, brush, up and down,  
 📎 المرجع: صورة الولد الصغير
 
@@ -121,7 +121,7 @@ Use the toddler boy with curly brown hair from the reference image, in yellow pa
 the toddler brushes his teeth up and down in rhythm, small bubbles float up, he grins at the mirror
 ```
 
-### مشهد 9: بنت النضارة بتسرّح شعرها (0:49–0:55)
+### مشهد 9: بنت النضارة بتسرّح شعرها (5:21)
 🎵 Comb your hair, the neatest in town!  
 📎 المرجع: صورة بنت النضارة
 
@@ -136,7 +136,7 @@ the girl combs her black bob smooth, looks in the mirror, pushes up her glasses 
 
 ## الجزء 4: الكوبليه التالت (Verse 3)
 
-### مشهد 10: الولد الرسام بيلبس (0:55–1:01)
+### مشهد 10: الولد الرسام بيلبس (6:02)
 🎵 Shirt goes on, and socks, and shoes,  
 📎 المرجع: صورة الولد الرسام
 
@@ -149,7 +149,7 @@ Use the boy with short brown hair from the reference image, in his khaki cargo s
 the boy pulls the blue t-shirt down over his head, pops his head out, then slips on his blue sneakers and wiggles happily
 ```
 
-### مشهد 11: البنت الطويلة بتختار لبسها (1:01–1:07)
+### مشهد 11: البنت الطويلة بتختار لبسها (6:02)
 🎵 So many colors, which will you choose?  
 📎 المرجع: صورة البنت الطويلة
 
@@ -162,8 +162,8 @@ Use the tall girl with the afro puff bun from the reference image, in mint green
 the girl holds up a pink t-shirt, then a mint green one, tilts her head thinking, then happily hugs the mint green t-shirt
 ```
 
-### مشهد 12: ترابيزة الفطار (1:07–1:14)
-🎵 Breakfast time, yum, yum, yum!  
+### مشهد 12: ترابيزة الفطار (7:25)
+🎵 Breakfast time, yum, yum, yum! (Yum, yum!)  
 📎 المرجع: الصورة الجماعية، أو استخدم صورة الفطار اللي عملتها على طول
 
 🖼️ صورة
@@ -175,7 +175,7 @@ Use all seven kids from the reference image in their usual outfits: the toddler 
 the kids smile at each other around the breakfast table and pick up their spoons, the baby giggles in the high chair, gentle camera push-in
 ```
 
-### مشهد 13: الأطفال بياكلوا (1:14–1:19)
+### مشهد 13: الأطفال بياكلوا (5:02)
 🎵 Eat it all up, every crumb!  
 📎 المرجع: صورة الفطار نفسها، فمش محتاج تعمل صورة جديدة
 
@@ -188,7 +188,7 @@ The kids happily eat breakfast together at the kitchen table. The curly-haired t
 
 المشهد ده عليه سطرين، فخلي الفيديو بتاعه 10 ثواني.
 
-### مشهد 14: باي باي عند الأتوبيس (1:19–1:29)
+### مشهد 14: باي باي عند الأتوبيس (10:02)
 🎵 Beep, beep! The school bus is here, / Bye-bye, Mommy, Daddy, baby dear!  
 📎 المرجع: صورة الأتوبيس اللي عملتها (بعد ما غيّرنا ماما وبابا وضفنا بنت النضارة)، فمش محتاج تعمل صورة جديدة
 
