@@ -6,7 +6,7 @@
 - **المدة:** حوالي دقيقة ونص، على قد الفيديو (1:29)
 - **التكرار:** Suno بيغني السطر في حوالي 3 ثواني (أول نسخة طلعت 50 ثانية)، فكل سطر بيتقال مرتين عشان ياخد حوالي 6 ثواني زي المشهد، وسطرين الأتوبيس بيتقالوا مرة واحدة والموسيقى بتخلص على الأتوبيس وهو ماشي
 - **الرسالة:** نبدأ يومنا بنشاط ونضافة ونظام، ونخلّص أكلنا كله
-- **عنوان مقترح للفيديو:** Rise and Shine 🌞 Good Morning Song for Kids | Morning Routine
+- **يوتيوب:** العنوان والوصف والتاجز والصورة المصغرة في آخر الملف
 
 ## ليه سهلة في الإنتاج؟
 
@@ -131,3 +131,69 @@ Bye-bye, Mommy, Daddy, baby dear!
 ## مشاهد الفيديو
 
 التقسيم الكامل للمشاهد بنفس ترتيب المونتاج، ومعاه برومبت صورة وبرومبت حركة للفيديو لكل مشهد، موجود في [rise-and-shine-scenes.md](rise-and-shine-scenes.md).
+
+## يوتيوب
+
+### العنوان
+
+```text
+Rise and Shine! 🌞 Good Morning Song for Kids | Morning Routine Song
+```
+
+### الوصف
+
+```text
+Rise and shine, little friends! ☀️ Start your day with this happy Good Morning Song!
+
+Wake up, stretch, make your bed, wash your face, brush your teeth, comb your hair, get dressed, eat a yummy breakfast, and wave bye-bye when the school bus comes! 🚌
+
+This fun sing-along helps toddlers and preschoolers learn a healthy morning routine.
+
+🌟 In this song, kids learn to:
+☀️ Wake up happy and stretch
+🛏️ Make their bed
+🧼 Wash their face
+🪥 Brush their teeth
+👕 Get dressed by themselves
+🥣 Eat a healthy breakfast
+🚌 Say goodbye to the family
+
+🎵 Lyrics:
+Good morning, friends! Wakey, wakey!
+Open your eyes, it's time to wake!
+Stretch up tall and give a great big shake!
+Fluff your pillow, pull the sheet,
+Make your bed so nice and neat!
+Splash, splash, wash your face!
+Brush your teeth, don't miss a place!
+Brush, brush, up and down,
+Comb your hair, the neatest in town!
+Shirt goes on, and socks, and shoes,
+So many colors, which will you choose?
+Breakfast time, yum, yum, yum!
+Eat it all up, every crumb!
+Beep, beep! The school bus is here,
+Bye-bye, Mommy, Daddy, baby dear!
+
+Parents, sing along with your little ones every morning! 💛
+
+#KidsSongs #NurseryRhymes #MorningRoutine
+```
+
+### التاجز
+
+في Show more، خانة Tags:
+
+```text
+good morning song, rise and shine song, morning routine song, kids songs, nursery rhymes, songs for toddlers, preschool songs, brush your teeth song, wake up song, get ready for school song, healthy habits for kids, children songs, sing along songs, toddler learning
+```
+
+### الصورة المصغرة
+
+مقاسها 1280×720. ارفع صورة الأطفال الجماعية كمرجع والصق ده:
+
+```text
+YouTube thumbnail for a kids song, 16:9. Use the kids from the reference image. In the center, three kids in colorful pajamas cheer with big happy faces: the little girl with two afro puffs, the toddler boy with curly brown hair holding a toothbrush, and the tall girl with the afro puff bun stretching her arms up. Behind them, a big smiling sun shines through a bedroom window with yellow curtains. Big bold playful text at the top: "RISE & SHINE!" in bright yellow with a thick dark outline. Bright saturated colors, high contrast, simple uncluttered background, 3D animated kids show style, big expressive eyes.
+```
+
+لو الأداة كتبت الكلام غلط، امسح جملة الـ text من البرومبت واكتب RISE & SHINE! بنفسك في Canva أو CapCut.
