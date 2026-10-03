@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
-"""Cut a long video into short clips (YouTube Shorts) using ffmpeg.
+"""Cut a long video into short clips (YouTube Shorts, TikTok, Reels) using ffmpeg.
 
 Two modes:
   auto    split the whole video into equal clips of --length seconds
   manual  cut the clips listed in a timestamps file
 
+The video can be a local file or a link (YouTube, Twitch, Kick, ...).
+
 Examples:
   python3 clipper/clip.py auto  video.mp4 --length 58
-  python3 clipper/clip.py manual video.mp4 --timestamps clips.txt
+  python3 clipper/clip.py manual "https://youtu.be/..." --timestamps clips.txt --captions
 """
 
 import argparse
@@ -15,10 +17,14 @@ import re
 import shutil
 import subprocess
 import sys
+import tempfile
 from pathlib import Path
+
+from captions import Transcriber, write_ass
 
 SHORTS_W, SHORTS_H = 1080, 1920
 MAX_SHORT_SECONDS = 180
+DOWNLOADS = Path("downloads")
 
 
 def require_ffmpeg():
@@ -27,13 +33,41 @@ def require_ffmpeg():
             sys.exit(f"Error: '{tool}' was not found. Install ffmpeg first.")
 
 
-def video_duration(path):
-    out = subprocess.run(
-        ["ffprobe", "-v", "error", "-show_entries", "format=duration",
-         "-of", "default=noprint_wrappers=1:nokey=1", str(path)],
+def probe(path, *args):
+    return subprocess.run(
+        ["ffprobe", "-v", "error", *args, "-of", "default=noprint_wrappers=1:nokey=1",
+         str(path)],
         capture_output=True, text=True, check=True,
-    ).stdout.strip()
-    return float(out)
+    ).stdout.split()
+
+
+def video_duration(path):
+    return float(probe(path, "-show_entries", "format=duration")[0])
+
+
+def has_audio(path):
+    return bool(probe(path, "-select_streams", "a", "-show_entries", "stream=index"))
+
+
+def is_url(text):
+    return re.match(r"https?://", text) is not None
+
+
+def download(url):
+    try:
+        import yt_dlp
+    except ImportError:
+        sys.exit("Error: downloading from a link needs yt-dlp: pip install yt-dlp")
+    DOWNLOADS.mkdir(exist_ok=True)
+    opts = {
+        "outtmpl": str(DOWNLOADS / "%(title).80s [%(id)s].%(ext)s"),
+        "format": "bv*[height<=1080]+ba/b[height<=1080]/bv*+ba/b",
+        "merge_output_format": "mp4",
+        "noplaylist": True,
+    }
+    with yt_dlp.YoutubeDL(opts) as ydl:
+        info = ydl.extract_info(url, download=True)
+    return Path(info["requested_downloads"][0]["filepath"])
 
 
 def parse_time(text):
@@ -96,15 +130,29 @@ def video_filter(fmt):
     return None  # "original": keep the source frame
 
 
-def cut(src, dst, start, end, fmt):
-    cmd = ["ffmpeg", "-y", "-loglevel", "error",
-           "-ss", f"{start:.3f}", "-i", str(src), "-t", f"{end - start:.3f}"]
+def frame_size(fmt, src):
+    if fmt == "original":
+        w, h = probe(src, "-select_streams", "v:0", "-show_entries", "stream=width,height")
+        return int(w), int(h)
+    return SHORTS_W, SHORTS_H
+
+
+def cut(src, dst, start, end, fmt, transcriber=None):
     vf = video_filter(fmt)
-    if vf:
-        cmd += ["-filter_complex", vf]
-    cmd += ["-c:v", "libx264", "-preset", "medium", "-crf", "20",
-            "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart", str(dst)]
-    subprocess.run(cmd, check=True)
+    with tempfile.TemporaryDirectory() as tmp:
+        if transcriber:
+            words = transcriber.words(src, start, end)
+            write_ass(Path(tmp) / "captions.ass", words, end - start, *frame_size(fmt, src))
+            # ffmpeg runs inside tmp, so the subtitle path needs no escaping.
+            vf = f"{vf},ass=captions.ass" if vf else "ass=captions.ass"
+        cmd = ["ffmpeg", "-y", "-loglevel", "error",
+               "-ss", f"{start:.3f}", "-i", str(src.resolve()), "-t", f"{end - start:.3f}"]
+        if vf:
+            cmd += ["-filter_complex", vf]
+        cmd += ["-c:v", "libx264", "-preset", "medium", "-crf", "20",
+                "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart",
+                str(dst.resolve())]
+        subprocess.run(cmd, check=True, cwd=tmp)
 
 
 def fmt_time(seconds):
@@ -117,12 +165,18 @@ def main():
     sub = p.add_subparsers(dest="mode", required=True)
 
     common = argparse.ArgumentParser(add_help=False)
-    common.add_argument("video", type=Path, help="source video file")
+    common.add_argument("video", help="source video file or link")
     common.add_argument("-o", "--out", type=Path, default=Path("clips"),
                         help="output folder (default: clips/)")
     common.add_argument("--format", choices=["blur", "crop", "original"], default="blur",
                         help="blur: 9:16 with blurred background (default), "
                              "crop: 9:16 cropped, original: keep source frame")
+    common.add_argument("--captions", action="store_true",
+                        help="burn in word-by-word captions (needs faster-whisper)")
+    common.add_argument("--lang", help="spoken language, e.g. en or ar (default: detect)")
+    common.add_argument("--whisper-model", default="small",
+                        help="tiny, base, small (default), medium or large-v3: "
+                             "bigger is more accurate but slower")
 
     a = sub.add_parser("auto", parents=[common], help="split into equal clips")
     a.add_argument("--length", type=float, default=58,
@@ -137,9 +191,10 @@ def main():
     args = p.parse_args()
     require_ffmpeg()
 
-    if not args.video.is_file():
-        sys.exit(f"Error: video not found: {args.video}")
-    duration = video_duration(args.video)
+    video = download(args.video) if is_url(args.video) else Path(args.video)
+    if not video.is_file():
+        sys.exit(f"Error: video not found: {video}")
+    duration = video_duration(video)
 
     if args.mode == "auto":
         if args.length <= 0:
@@ -155,8 +210,14 @@ def main():
     if not clips:
         sys.exit("No clips to cut.")
 
+    transcriber = None
+    if args.captions:
+        if not has_audio(video):
+            sys.exit("Error: the video has no audio, so there is nothing to caption.")
+        transcriber = Transcriber(args.whisper_model, args.lang)
+
     args.out.mkdir(parents=True, exist_ok=True)
-    stem = slugify(args.video.stem) or "clip"
+    stem = slugify(video.stem) or "clip"
     for i, (start, end, title) in enumerate(clips, 1):
         end = min(end, duration)
         name = f"{stem}_{i:02d}" + (f"_{slugify(title)}" if title else "") + ".mp4"
@@ -165,7 +226,7 @@ def main():
         if args.format != "original" and end - start > MAX_SHORT_SECONDS:
             note = f"  (warning: longer than {MAX_SHORT_SECONDS}s, too long for a Short)"
         print(f"[{i}/{len(clips)}] {fmt_time(start)}-{fmt_time(end)} -> {dst}{note}")
-        cut(args.video, dst, start, end, args.format)
+        cut(video, dst, start, end, args.format, transcriber)
 
     print(f"Done: {len(clips)} clip(s) in {args.out}/")
 
