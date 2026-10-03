@@ -1,18 +1,21 @@
 #!/usr/bin/env python3
 """Cut a long video into short clips (YouTube Shorts, TikTok, Reels) using ffmpeg.
 
-Two modes:
-  auto    split the whole video into equal clips of --length seconds
-  manual  cut the clips listed in a timestamps file
+Modes:
+  auto        split the whole video into equal clips of --length seconds
+  manual      cut the clips listed in a timestamps file
+  transcript  write what is said, with times, to pick the best moments from
 
 The video can be a local file or a link (YouTube, Twitch, Kick, ...).
 
 Examples:
   python3 clipper/clip.py auto  video.mp4 --length 58
+  python3 clipper/clip.py transcript "https://youtu.be/..."
   python3 clipper/clip.py manual "https://youtu.be/..." --timestamps clips.txt --captions
 """
 
 import argparse
+import math
 import re
 import shutil
 import subprocess
@@ -156,16 +159,33 @@ def cut(src, dst, start, end, fmt, transcriber=None):
 
 
 def fmt_time(seconds):
-    m, s = divmod(int(seconds), 60)
-    return f"{m:02d}:{s:02d}"
+    """Format as M:SS or H:MM:SS, which read_timestamps also accepts."""
+    h, rest = divmod(int(seconds), 3600)
+    m, s = divmod(rest, 60)
+    return f"{h}:{m:02d}:{s:02d}" if h else f"{m:02d}:{s:02d}"
+
+
+def write_transcript(transcriber, video, path):
+    """One line per sentence, 'START END text': the same format as a timestamps file."""
+    with open(path, "w", encoding="utf-8") as f:
+        for seg in transcriber.segments(video):
+            line = f"{fmt_time(seg.start)} {fmt_time(math.ceil(seg.end))}  {seg.text.strip()}"
+            print(line)
+            f.write(line + "\n")
 
 
 def main():
     p = argparse.ArgumentParser(description="Cut long videos into Shorts.")
     sub = p.add_subparsers(dest="mode", required=True)
 
-    common = argparse.ArgumentParser(add_help=False)
-    common.add_argument("video", help="source video file or link")
+    source = argparse.ArgumentParser(add_help=False)
+    source.add_argument("video", help="source video file or link")
+    source.add_argument("--lang", help="spoken language, e.g. en, fr or ar (default: detect)")
+    source.add_argument("--whisper-model", default="small",
+                        help="tiny, base, small (default), medium or large-v3: "
+                             "bigger is more accurate but slower")
+
+    common = argparse.ArgumentParser(add_help=False, parents=[source])
     common.add_argument("-o", "--out", type=Path, default=Path("clips"),
                         help="output folder (default: clips/)")
     common.add_argument("--format", choices=["blur", "crop", "original"], default="blur",
@@ -173,10 +193,6 @@ def main():
                              "crop: 9:16 cropped, original: keep source frame")
     common.add_argument("--captions", action="store_true",
                         help="burn in word-by-word captions (needs faster-whisper)")
-    common.add_argument("--lang", help="spoken language, e.g. en, fr or ar (default: detect)")
-    common.add_argument("--whisper-model", default="small",
-                        help="tiny, base, small (default), medium or large-v3: "
-                             "bigger is more accurate but slower")
 
     a = sub.add_parser("auto", parents=[common], help="split into equal clips")
     a.add_argument("--length", type=float, default=58,
@@ -188,6 +204,11 @@ def main():
     m.add_argument("--timestamps", type=Path, required=True,
                    help="text file with lines: START END [title]")
 
+    t = sub.add_parser("transcript", parents=[source],
+                       help="write what is said, with times, to help pick the best moments")
+    t.add_argument("-o", "--out", type=Path, default=Path("transcripts"),
+                   help="output folder (default: transcripts/)")
+
     args = p.parse_args()
     require_ffmpeg()
 
@@ -195,6 +216,15 @@ def main():
     if not video.is_file():
         sys.exit(f"Error: video not found: {video}")
     duration = video_duration(video)
+
+    if args.mode == "transcript":
+        if not has_audio(video):
+            sys.exit("Error: the video has no audio, so there is nothing to transcribe.")
+        args.out.mkdir(parents=True, exist_ok=True)
+        path = args.out / f"{slugify(video.stem) or 'transcript'}.txt"
+        write_transcript(Transcriber(args.whisper_model, args.lang), video, path)
+        print(f"Done: transcript saved to {path}")
+        return
 
     if args.mode == "auto":
         if args.length <= 0:

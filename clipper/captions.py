@@ -45,6 +45,12 @@ class Transcriber:
             return [Word(w.start, w.end, w.word.strip())
                     for seg in segments for w in seg.words]
 
+    def segments(self, src):
+        """Transcribe a whole file, yielding sentences as they are recognised."""
+        segments, _ = self.model.transcribe(str(src), language=self.language,
+                                            vad_filter=True)
+        return segments
+
 
 def clean(text):
     # Drop characters that would be read as ASS override tags.
