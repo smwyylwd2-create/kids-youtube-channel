@@ -173,7 +173,7 @@ def main():
                              "crop: 9:16 cropped, original: keep source frame")
     common.add_argument("--captions", action="store_true",
                         help="burn in word-by-word captions (needs faster-whisper)")
-    common.add_argument("--lang", help="spoken language, e.g. en or ar (default: detect)")
+    common.add_argument("--lang", help="spoken language, e.g. en, fr or ar (default: detect)")
     common.add_argument("--whisper-model", default="small",
                         help="tiny, base, small (default), medium or large-v3: "
                              "bigger is more accurate but slower")

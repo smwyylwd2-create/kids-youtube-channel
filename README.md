@@ -50,5 +50,5 @@ python3 clipper/clip.py auto video.mp4 --length 58
 | `--format crop` | يملا الشاشة ويقصّ الجناب |
 | `--format original` | يسيب المقاس الأصلي |
 | `--captions` | كابشن كلمة بكلمة |
-| `--lang` | لغة الكلام، زي `en` أو `ar` (الافتراضي: يكتشفها لوحده) |
+| `--lang` | لغة الكلام، زي `en` أو `fr` أو `ar` (الافتراضي: يكتشفها لوحده) |
 | `--whisper-model` | `tiny` / `base` / `small` (افتراضي) / `medium` / `large-v3` |
