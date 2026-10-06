@@ -9,7 +9,7 @@
 | 1 | Matchday FC – Clipping France (14 jours) | $2 | $2,300 | TikTok, IG, YouTube | Clipping لكروت لاعيبة كورة، بكابشنات فرنساوي | معمولة لجمهور فرنسا صريح | [فتح](https://contentrewards.com/discover/131887ef-850d-466c-aca6-c8834d81981e) |
 | 2 | 'Outro' Sound Campaign (EU), وعاملاها ClippedIn | $1 | $2,500 | TikTok, IG, YouTube | صوت تحطه على كليباتك | معمولة للصفحات اللي في الاتحاد الأوروبي | [فتح](https://contentrewards.com/discover/7f4185ca-187f-4dca-9c77-0ea32e51f3b9) |
 | 3 | Call of Duty MW4 عربي V2، وعاملاها Arabic Clipping | $1 | $26,300 | TikTok, IG | Clipping من فيديوهات اللعبة الرسمية | عربي، وميزانيتها كبيرة جدًا | [فتح](https://contentrewards.com/discover/0afd04db-e183-4411-9957-0b890ef272b5) |
-| 4 | FR ZK Campagne Principale | $1.75 | $1,000 | IG, X, YouTube, TikTok | Clipping لصانع محتوى فرنساوي | محتوى فرنساوي لجمهور فرنساوي | [فتح](https://contentrewards.com/discover/ceff4682-947e-40c9-b7df-81a806c89943) |
+| ~~4~~ | ~~FR ZK Campagne Principale~~ (**اتشالت بعد ما قرينا صفحتها: قمار**) | ~~$1.75~~ | ~~$1,000~~ | | | | |
 | 5 | 'Réseaux' – Abena MK & Chily | $1 | $1,000 | TikTok | Clipping أو مونتاج لأغنية راب فرنساوي | أغنية فرنساوي والبانر فيه صور باريس | [فتح](https://contentrewards.com/discover/241f7ebd-7cf8-4100-b3ee-e58bacce15e5) |
 
 ## حاجات لازم تتشاف في صفحة كل حملة
@@ -28,6 +28,9 @@
 - **Persona 4 FR:** محتاجة صفحة قديمة، ومفيش دفع قبل حوالي 8,000 مشاهدة.
 
 ## حملات اتشالت
+**ZK:** صفحة الحملة نفسها مصنّفة **Gambling**. فيها فيديوهات كازينو، ولازم تحط لينك بوت Telegram اسمه "Bonus_ZK_bot" في البايو.
+ترويج القمار غير المرخّص ممنوع في فرنسا بقانون المؤثرين، وكمان ممنوع في شروط Instagram وTikTok.
+
 TJR وDouble Coverage، لأنهم طالبين 50% جمهور أمريكي أو من دول بتتكلم إنجليزي.
 My Mini، لأنها طالبة 30% أمريكا وبريطانيا، وجمهور فرنسا مش بيتحسب.
 SoFi، لأنها محتاجة صفحة فلوس قديمة جمهورها أمريكي.
