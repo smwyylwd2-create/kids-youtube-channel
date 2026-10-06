@@ -35,9 +35,40 @@
 | Forest Slater – Adventure Time edits | $1 | $1,000 | TikTok, IG | 2 أكتوبر | [فتح](https://contentrewards.com/discover/3c3e8684-72ee-45a0-94b1-8b9c3fc28170) |
 | Spawn – اعمل ألعاب أونلاين بالذكاء الاصطناعي | $1 | $2,000 | TikTok, IG, YouTube, X | 30 سبتمبر | [فتح](https://contentrewards.com/discover/f1dd0502-4ed2-4fa9-8610-448a6c5be9b4) |
 
+## حملات سهلة في النشر (مجهود قليل)
+
+مفيش حاجة مضمونة: الدفع على المشاهدات بس، وبعد ما صاحب الحملة يوافق على الفيديو.
+
+**ريبوست: بتنزّل فيديوهات جاهزة من الحملة نفسها**
+
+| الحملة | لكل 1000 مشاهدة | الميزانية | المنصات | اتنشرت | الرابط |
+|---|---|---|---|---|---|
+| Romulus: Just REPOST | $1 | $1,000 | TikTok, IG, YouTube, X | 24 سبتمبر | [فتح](https://contentrewards.com/discover/31b5758e-77fa-4624-8f68-151f3f5d4436) |
+| Vertus Reposting and Clipping | $1 | $1,001 | TikTok, IG, YouTube | 23 سبتمبر | [فتح](https://contentrewards.com/discover/872f5785-7fae-4cc9-b8d4-66aaa604f101) |
+| [EASY $$] POST FAMILY CONTENT | $1.25 | $1,000 | TikTok | 25 سبتمبر | [فتح](https://contentrewards.com/discover/3b5f81b3-650d-41cb-9364-8dc6f1f18b03) |
+| [EASY $$] POST RELATABLE MEMES | $1.25 | $1,000 | TikTok | 22 سبتمبر | [فتح](https://contentrewards.com/discover/80fa01b9-8713-46b5-81f8-31c6af201052) |
+| Get Paid to Repost Fortnite – Earn Per App (مفيش سعر للمشاهدة مكتوب) | ؟ | $1,000 | IG | 30 سبتمبر | [فتح](https://contentrewards.com/discover/11969a00-0ba4-4051-b5b3-7afffb5e11ef) |
+
+**صوت أو لوجو: بتحطه على فيديوهاتك العادية**
+
+| الحملة | لكل 1000 مشاهدة | الميزانية | المنصات | اتنشرت | الرابط |
+|---|---|---|---|---|---|
+| THEO – Feels Like a Remedy (صوت بس) | $1.50 | $1,000 | TikTok, IG, YouTube, X | 29 سبتمبر | [فتح](https://contentrewards.com/discover/11b42131-311d-42d3-8847-b0b23eb47ec6) |
+| Kalamity Kills – I Still Believe (صوت) | $0.90 | $4,000 | TikTok, IG | 6 أكتوبر | [فتح](https://contentrewards.com/discover/6b0526ed-f549-48f0-94e6-c22a8a950b8d) |
+| Des Rocs – Sing Me Back to Sleep (صوت) | $0.75 | $1,500 | IG, TikTok | 6 أكتوبر | [فتح](https://contentrewards.com/discover/208464ea-f6bb-4180-96dc-9d9faa3a42b6) |
+| Logo Campaign (اتأكد من البراند) | $0.25 | $1,000 | TikTok, IG, YouTube, X | 2 أكتوبر | [فتح](https://contentrewards.com/discover/9efb4281-815f-49ed-85a7-de73c1fb87d8) |
+| Logo Campaign (اتأكد من البراند) | $0.50 | $1,000 | TikTok, IG | 24 سبتمبر | [فتح](https://contentrewards.com/discover/d84618c7-7796-4757-b752-c90e07bc3906) |
+
+**سلايدشو: صور ورا بعض بدل فيديو**
+
+| الحملة | لكل 1000 مشاهدة | الميزانية | المنصات | اتنشرت | الرابط |
+|---|---|---|---|---|---|
+| Livemap Slideshows | $1 | $2,500 | IG, TikTok | 26 سبتمبر | [فتح](https://contentrewards.com/discover/d2b1fd01-daf1-4c43-9bff-ef16511a30c5) |
+
 ## حملات اتشالت من القايمة
 
-Call of Duty، والعملات الرقمية، والتريدنج، والمراهنات، وGLP-1، وRoll Anime Girls. محتواها مش مناسب لقناة أطفال.
+Call of Duty، والعملات الرقمية، والتريدنج، والمراهنات (زي Coinpoker Logo)، وGLP-1، وRoll Anime Girls، وحملات Thirst Traps. محتواها مش مناسب لقناة أطفال.
+كمان اتشالت الحملات المخصوصة لجمهور بلد معيّن (المكسيك وألمانيا والاتحاد الأوروبي).
 
 ## قبل ما ننشر على يوتيوب
 
